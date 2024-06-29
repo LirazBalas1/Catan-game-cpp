@@ -1,3 +1,6 @@
+// Liraz Balas
+// 211801220
+// lbalad13@gmail.com
 #ifndef BOARD_HPP
 #define BOARD_HPP
 
