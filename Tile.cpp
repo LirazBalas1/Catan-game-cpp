@@ -1,3 +1,6 @@
+// Liraz Balas
+// 211801220
+// lbalad13@gmail.com
 #include "Tile.hpp"
 
 Tile::Tile(ResourceType resourceType, int resourceNumber) : type(resourceType), number(resourceNumber) {}
